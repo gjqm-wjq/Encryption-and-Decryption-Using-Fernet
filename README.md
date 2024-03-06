@@ -40,6 +40,9 @@ This will create an encryption key file named `encryption_key.key` in the curren
 
 This will encrypt each file in the specified directory and its subdirectories. Encrypted files will have a `.encrypted` extension.
 
+
+This will encrypt each file in the specified directory and its subdirectories. Encrypted files will have a `.encrypted` extension.
+
 ### Decryption
 
 1. Ensure you have the encryption key file (`encryption_key.key`) generated during the encryption process.
@@ -49,17 +52,13 @@ This will encrypt each file in the specified directory and its subdirectories. E
 3. Run the decryption script `decryption.py`, providing the directory path containing the encrypted files:
 
 
-This will decrypt each encrypted file in the specified directory and its subdirectories, removing the `.encrypted` extension.
 
-## Notes
 
-- Keep the encryption key (`encryption_key.key`) secure. Loss of this key will result in the inability to decrypt the files.
-- Ensure you have backups of both the original files and the encrypted files to avoid data loss.
+### Decryption
 
-## Contributing
+1. Ensure you have the encryption key file (`encryption_key.key`) generated during the encryption process.
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+2. Place the encrypted files you want to decrypt in a directory.
 
-## License
+3. Run the decryption script `decryption.py`, providing the directory path containing the encrypted files:
 
-This project is licensed under the [MIT License](LICENSE).
