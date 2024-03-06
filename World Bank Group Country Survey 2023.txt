@@ -1,0 +1,922 @@
+1
+Microdata Library
+Uzbekistan - World Bank Group Country
+Survey 2023
+Public Opinion Research Group
+Report generated on: February 29, 2024
+Visit our data catalog at: https://microdata.worldbank.org/index.php
+Uzbekistan - World Bank Group Country Survey 2023
+2
+Identification
+SURVEY ID NUMBER
+UZB_2023_WBCS_v01_M
+TITLE
+World Bank Group Country Survey 2023
+ABBREVIATION OR ACRONYM
+WBCS 2023
+COUNTRY/ECONOMY
+Name Country code
+Uzbekistan UZB
+SERIES INFORMATION
+The World Bank Group Country Opinion Survey Program (COS) is an ongoing effort to systematically gauge and track the
+perceptions and views of the World Bank Group's clients and partners across the globe, over time. The survey data provide
+the institution with a more in-depth understanding of the views of stakeholders on issues related to the World Bank's work
+on the ground (how it operates, its relationships, and its knowledge) and other development-related issues. The program is
+overseen by the Department of External and Corporate Relations, Business Intelligence Team. This collection hosts open,
+accessible survey data from 29 countries collected in FY 2012 (July 2011-June 2012), 41 countries in FY 2013 (July 2012-June
+2013), 42 countries in FY 2014 (July 2013-June 2014), 35 countries in FY 2015 (July 2014-June 2015), 45 countries in FY 2016
+(July 2015-June 2016), 35 countries in FY 2017 (July 2016-June 2017), and 39 countries in FY 2018 (July 2017-June 2018), 42
+countries in FY 2019 (July 2018-June 2019), 21 countries in FY 2020 (July 2019-June 2020), 36 countries in FY 2021 (July
+2020-June 2021), 23 countries in FY 2022 (July 2021-June 2022) and 30 countries in FY 2023 (July 2022-June 2023). All data
+will be regularly updated, and more countries will be added as data becomes available.
+ABSTRACT
+The Country Opinion Survey in Uzbekistan assists the World Bank Group (WBG) in better understanding how stakeholders in
+Uzbekistan perceive the WBG. It provides the WBG with systematic feedback from national and local governments,
+multilateral/bilateral agencies, media, academia, the private sector, and civil society in Uzbekistan on 1) their views
+regarding the general environment in Uzbekistan; 2) their overall attitudes toward the WBG in Uzbekistan; 3) overall
+impressions of the WBG’s effectiveness and results, knowledge work and activities, and communication and information
+sharing in Uzbekistan; and 4) their perceptions of the WBG’s future role in Uzbekistan.
+KIND OF DATA
+Sample survey data [ssd]
+UNIT OF ANALYSIS
+Stakeholders of the World Bank Group in Uzbekistan.
+Version
+VERSION DESCRIPTION
+Edited, anonymized dataset for public distribution.
+VERSION DATE
+2024-01-15
+Coverage
+GEOGRAPHIC COVERAGE
+The Republic of Karakalpakstan, Andijan region, Bukhara region, Fergana region, Jizzakh region, Khorezm region, Namangan
+region, Navoiy region, Kashkadarya region, Samarkand region, Sirdarya region, Surxondarya region, Tashkent region, and
+City of Tashkent.
+Uzbekistan - World Bank Group Country Survey 2023
+3
+Producers and sponsors
+PRIMARY INVESTIGATORS
+Name Affiliation
+Public Opinion Research Group World Bank
+FUNDING AGENCY/SPONSOR
+Name Role
+World Bank Funder
+Sampling
+SAMPLING PROCEDURE
+From July 2023 to August 2023, a total of 466 stakeholders of the WBG in Uzbekistan were invited to provide their opinions
+about the WBG’s work in the country by participating in a Country Opinion Survey (COS). Participants were drawn from the
+Office of the President, Prime Minister, office of a minister, office of a parliamentarian; from government institutions, local
+governments, project implementation units, bilateral/multilateral agencies, the private sector, civil society, academia, and
+the media. A total of 298 stakeholders participated in the survey.
+RESPONSE RATE
+The response rate was 64%
+The results of this year’s survey were compared to the FY19 Survey (32% response rate, N=352).
+Comparing responses across Country Surveys reflects changes in attitudes over time, but also changes in respondent
+samples, changes in methodology, and changes to the survey instrument itself. To reduce the influence of the latter factor,
+only those questions with similar response scales/options were analyzed. This year’s survey saw an increased outreach to
+and/or response from government institutions and academia, but a decrease in response from bilateral/multilateral
+agencies. These differences in stakeholder composition between the two years should be considered when interpreting the
+results of the past-year comparison analyses.
+Data collection
+DATES OF DATA COLLECTION
+Start End
+2023-07 2023-08
+DATA COLLECTION MODE
+Other [oth]
+DATA COLLECTION NOTES
+Respondents completed the questionnaires online or they received the questionnaire via mail and returned it accordingly.
+Questionnaires
+QUESTIONNAIRES
+The survey was implemented in Uzbek, English, and Russian languages. The English version of the questionnaire is provided
+as related material.
+Access policy
+CONTACTS
+Uzbekistan - World Bank Group Country Survey 2023
+4
+Name Affiliation Email
+Public Opinion Research Group The World Bank countrysurveys@worldbankgroup.org
+CONFIDENTIALITY
+CITATION REQUIREMENTS
+Use of the dataset must be acknowledged using a citation which would include:
+- the Identification of the Primary Investigator
+- the title of the survey (including country, acronym and year of implementation)
+- the survey reference number
+- the source and date of download
+Example:
+Public Opinion Research Group (World Bank). Uzbekistan - World Bank Group Country Survey 2023 (WBCS 2023). Ref:
+UZB_2023_WBCS_v01_M. Downloaded from [uri] on [date].
+ACCESS AUTHORITY
+Name Affiliation
+Public Opinion Research Group The World Bank
+Disclaimer and copyrights
+DISCLAIMER
+The user of the data acknowledges that the original collector of the data, the authorized distributor of the data, and the
+relevant funding agency bear no responsibility for use of the data or for interpretations or inferences based upon such uses.
+Metadata production
+DDI DOCUMENT ID
+DDI_UZB_2023_WBCS_v01_M_WB
+PRODUCERS
+Name Abbreviation Affiliation Role
+Development Data Group DECDG World Bank Documentation of the study
+DATE OF METADATA PRODUCTION
+2024-02-29
+DDI DOCUMENT VERSION
+Version 01 (2024-02-29)
+Uzbekistan - World Bank Group Country Survey 2023
+5
+Data Dictionary
+Data file Cases Variables
+uzbekistan_cos_fy23_data
+Data collected using the 2023 Uzbekistan World Bank Group Country Survey questionnaire (FY23).
+Dataset covers the following themes:
+• Overall Context
+• Overall Attitudes Toward the World Bank Group
+• World Bank Group’s Support in Development Areas
+• World Bank Group’s Work and Engagement on the Ground in Uzbekistan
+• World Bank Group’s Financial Instruments and Knowledge Work
+• The Future Role of the WBG in Uzbekistan
+• Communication and Outreach
+307 176
+Uzbekistan - World Bank Group Country Survey 2023
+6
+Uzbekistan - World Bank Group Country Survey 2023
+7
+Data file: uzbekistan_cos_fy23_data
+Data collected using the 2023 Uzbekistan World Bank Group Country Survey questionnaire (FY23). Dataset covers the
+following themes:
+• Overall Context
+• Overall Attitudes Toward the World Bank Group
+• World Bank Group’s Support in Development Areas
+• World Bank Group’s Work and Engagement on the Ground in Uzbekistan
+• World Bank Group’s Financial Instruments and Knowledge Work
+• The Future Role of the WBG in Uzbekistan
+• Communication and Outreach
+Cases: 307
+Variables: 176
+Variables
+ID Name Label Question
+V101 C7_9 Media To what extent is the WBG an effective
+development partner in Uzbekistan, in terms of
+collaborating with the following groups:
+V102 C8_1 The WBG’s financial instruments meet the needs of
+Uzbekistan (i.e., investment lending, payment guarantees,
+Development Policy Loan, Trust Funds, Program-for-
+Results).
+To what extent do you agree/disagree with the
+following statements?
+V103 C8_2 The conditions of the WBG’s financing are competitive
+compared to markets.
+To what extent do you agree/disagree with the
+following statements?
+V104 C8_3 The WBG insists on accountability through its lending
+(e.g., performance-based financing, resources tied to
+results).
+To what extent do you agree/disagree with the
+following statements?
+V105 C8_4 The WBG provides financial support in a timely manner. To what extent do you agree/disagree with the
+following statements?
+V106 C9 Have you used the WBG’s advisory services and analytics
+in the past?
+Have you used the WBG’s advisory services and
+analytics in the past?
+V107 C10_1 I am satisfied with the quality of the WBG’s advisory
+services and analytical work in Uzbekistan.
+To what extent do you agree/disagree with the
+following statements?
+V108 C10_2 The WBG’s advisory services and analytical work are
+timely.
+To what extent do you agree/disagree with the
+following statements?
+V109 C10_3 The WBG brings global expertise to Uzbekistan as part of
+its advisory services and analytical work.
+To what extent do you agree/disagree with the
+following statements?
+V110 C10_4 The WBG’s advice and recommendations are tailored to
+Uzbekistan’s context.
+To what extent do you agree/disagree with the
+following statements?
+V111 C10_5 I anticipate using the WBG's advisory services and
+analytical work in the future.
+To what extent do you agree/disagree with the
+following statements?
+V112 D1_1
+V113 D1_2
+V114 D1_3
+V115 D1_4
+V116 D1_5
+V117 D1_6
+V118 D1_7
+V119 D1_8
+V120 D1_9
+V121 D2_1
+Uzbekistan - World Bank Group Country Survey 2023
+8
+ID Name Label Question
+V122 D2_2
+V123 D2_3
+V124 D2_4
+V125 D2_5
+V126 D2_6
+V127 D2_7
+V128 D2_8
+V129 D2_9
+V130 D2_10
+V131 D3
+V132 D4_1
+V133 D4_2
+V134 D4_3
+V135 D4_4
+V136 D4_5
+V137 D4_6
+V138 D4_7
+V139 D4_8
+V140 D4_9
+V141 D4_10
+V142 D4_11
+V143 D4_12
+V144 D4_13
+V145 D5_1
+V146 D5_2
+V147 D5_3
+V148 D5_4
+V149 D5_5
+V150 D5_6
+V151 D5_7
+V152 D5_8
+V153 D6_1
+V154 D6_2
+V155 D6_3
+V156 D6_4
+V157 D6_5
+V158 D6_6
+V159 D6_7
+V160 D7_1
+V161 D7_2
+V162 D7_3
+V163 D7_4
+V164 D7_5
+V165 D8_1
+V166 D8_2
+Uzbekistan - World Bank Group Country Survey 2023
+9
+ID Name Label Question
+V167 D8_3
+V168 D8_4
+V169 D8_5
+V170 D8_6
+V171 D8_7
+V172 E1
+V173 E2
+V174 E3 Do you recall seeing or hearing anything about the WBG in
+the last 30 days?
+Do you recall seeing or hearing anything about
+the WBG in the last 30 days?
+V175 E4
+V176 E5
+Total: 76
+Uzbekistan - World Bank Group Country Survey 2023
+10
+Uzbekistan - World Bank Group Country Survey 2023
+11
+C7_9: Media
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 249 Invalid: 58 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 28 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent is the WBG an effective development partner in Uzbekistan, in terms of collaborating with the following
+groups:
+CATEGORIES
+Value Category Cases
+1 To no degree at all 10 4%
+2 11 4.4%
+3 7 2.8%
+4 10 4%
+5 25 10%
+6 11 4.4%
+7 12 4.8%
+8 19 7.6%
+9 23 9.2%
+10 To a very significant degree 15 6%
+11 106 42.6%
+Sysmiss 58
+C8_1: The WBG’s financial instruments meet the needs of Uzbekistan (i.e., investment
+lending, payment guarantees, Development Policy Loan, Trust Funds, Program-for-Results).
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 265 Invalid: 42 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 4 1.5%
+Uzbekistan - World Bank Group Country Survey 2023
+12
+2 5 1.9%
+3 10 3.8%
+4 7 2.6%
+5 18 6.8%
+6 6 2.3%
+7 21 7.9%
+8 31 11.7%
+9 33 12.5%
+10 Strongly agree 43 16.2%
+11 87 32.8%
+Sysmiss 42
+C8_2: The conditions of the WBG’s financing are competitive compared to markets.
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 255 Invalid: 52 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 5 2%
+2 3 1.2%
+3 6 2.4%
+4 8 3.1%
+5 9 3.5%
+6 10 3.9%
+7 10 3.9%
+8 33 12.9%
+9 25 9.8%
+10 Strongly agree 42 16.5%
+11 104 40.8%
+Sysmiss 52
+Uzbekistan - World Bank Group Country Survey 2023
+13
+C8_3: The WBG insists on accountability through its lending (e.g., performance-based
+financing, resources tied to results).
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 257 Invalid: 50 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 8 3.1%
+2 5 1.9%
+3 4 1.6%
+4 5 1.9%
+5 12 4.7%
+6 7 2.7%
+7 18 7%
+8 24 9.3%
+9 33 12.8%
+10 Strongly agree 56 21.8%
+11 85 33.1%
+Sysmiss 50
+C8_4: The WBG provides financial support in a timely manner.
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 255 Invalid: 52 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 7 2.7%
+2 3 1.2%
+Uzbekistan - World Bank Group Country Survey 2023
+14
+3 6 2.4%
+4 6 2.4%
+5 11 4.3%
+6 10 3.9%
+7 17 6.7%
+8 22 8.6%
+9 32 12.5%
+10 Strongly agree 47 18.4%
+11 94 36.9%
+Sysmiss 52
+C9: Have you used the WBG’s advisory services and analytics in the past?
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 267 Invalid: 40 Minimum: 1 Maximum: 3
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 3 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+Have you used the WBG’s advisory services and analytics in the past?
+CATEGORIES
+Value Category Cases
+1 Yes 127 47.6%
+2 No 107 40.1%
+3 Not sure 33 12.4%
+Sysmiss 40
+C10_1: I am satisfied with the quality of the WBG’s advisory services and analytical work in
+Uzbekistan.
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+Uzbekistan - World Bank Group Country Survey 2023
+15
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 3 1.2%
+2 4 1.5%
+3 10 3.9%
+4 3 1.2%
+5 15 5.8%
+6 18 6.9%
+7 18 6.9%
+8 33 12.7%
+9 28 10.8%
+10 Strongly agree 47 18.1%
+11 80 30.9%
+Sysmiss 48
+C10_2: The WBG’s advisory services and analytical work are timely.
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 256 Invalid: 51 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 4 1.6%
+2 4 1.6%
+3 4 1.6%
+4 10 3.9%
+5 12 4.7%
+6 16 6.3%
+7 25 9.8%
+8 23 9%
+9 37 14.5%
+10 Strongly agree 43 16.8%
+11 78 30.5%
+Sysmiss 51
+Uzbekistan - World Bank Group Country Survey 2023
+16
+C10_3: The WBG brings global expertise to Uzbekistan as part of its advisory services and
+analytical work.
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 255 Invalid: 52 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 3 1.2%
+2 2 0.8%
+3 2 0.8%
+4 4 1.6%
+5 16 6.3%
+6 10 3.9%
+7 25 9.8%
+8 29 11.4%
+9 34 13.3%
+10 Strongly agree 64 25.1%
+11 66 25.9%
+Sysmiss 52
+C10_4: The WBG’s advice and recommendations are tailored to Uzbekistan’s context.
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 252 Invalid: 55 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+Uzbekistan - World Bank Group Country Survey 2023
+17
+1 Strongly disagree 4 1.6%
+2 5 2%
+3 7 2.8%
+4 10 4%
+5 14 5.6%
+6 16 6.3%
+7 25 9.9%
+8 28 11.1%
+9 32 12.7%
+10 Strongly agree 37 14.7%
+11 74 29.4%
+Sysmiss 55
+C10_5: I anticipate using the WBG's advisory services and analytical work in the future.
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 253 Invalid: 54 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 17 Range: 1 - 11 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+To what extent do you agree/disagree with the following statements?
+CATEGORIES
+Value Category Cases
+1 Strongly disagree 3 1.2%
+2 4 1.6%
+3 3 1.2%
+4 4 1.6%
+5 9 3.6%
+6 7 2.8%
+7 20 7.9%
+8 21 8.3%
+9 34 13.4%
+10 Strongly agree 82 32.4%
+11 66 26.1%
+Sysmiss 54
+Uzbekistan - World Bank Group Country Survey 2023
+18
+D1_1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D1_2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D1_3:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D1_4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D1_5:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D1_6:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+19
+D1_7:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D1_8:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D1_9:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_3:
+Data file: uzbekistan_cos_fy23_data
+Uzbekistan - World Bank Group Country Survey 2023
+20
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_5:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_6:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_7:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_8:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+21
+D2_9:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D2_10:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D3:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 264 Invalid: 43 Minimum: 1 Maximum: 2
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 2 Format: Numeric
+D4_1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_3:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+22
+D4_4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_5:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_6:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_7:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_8:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_9:
+Data file: uzbekistan_cos_fy23_data
+Uzbekistan - World Bank Group Country Survey 2023
+23
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_10:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_11:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_12:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D4_13:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 158 Invalid: 149 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D5_1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+24
+D5_2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D5_3:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D5_4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D5_5:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D5_6:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D5_7:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+25
+D5_8:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 97 Invalid: 210 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D6_1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 157 Invalid: 150 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D6_2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 157 Invalid: 150 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D6_3:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 157 Invalid: 150 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D6_4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 157 Invalid: 150 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D6_5:
+Data file: uzbekistan_cos_fy23_data
+Uzbekistan - World Bank Group Country Survey 2023
+26
+Overview
+Valid: 157 Invalid: 150 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D6_6:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 157 Invalid: 150 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D6_7:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 157 Invalid: 150 Minimum: 0 Maximum: 1
+Type: Discrete Decimal: 0 Width: 8 Range: 0 - 1 Format: Numeric
+D7_1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 259 Invalid: 48 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 11 Format: Numeric
+D7_2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 250 Invalid: 57 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 11 Format: Numeric
+D7_3:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 249 Invalid: 58 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 11 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+27
+D7_4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 248 Invalid: 59 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 11 Format: Numeric
+D7_5:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 249 Invalid: 58 Minimum: 1 Maximum: 11
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 11 Format: Numeric
+D8_1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 243 Invalid: 64 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+D8_2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 236 Invalid: 71 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+D8_3:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 234 Invalid: 73 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+D8_4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 235 Invalid: 72 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+28
+D8_5:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 235 Invalid: 72 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+D8_6:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 241 Invalid: 66 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+D8_7:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 236 Invalid: 71 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+E1:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 1 Maximum: 20
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 20 Format: Numeric
+E2:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 1 Maximum: 4
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 4 Format: Numeric
+E3: Do you recall seeing or hearing anything about the WBG in the last 30 days?
+Data file: uzbekistan_cos_fy23_data
+Uzbekistan - World Bank Group Country Survey 2023
+29
+Overview
+Valid: 263 Invalid: 44 Minimum: 1 Maximum: 2
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 2 Format: Numeric
+Questions and instructions
+LITERAL QUESTION
+Do you recall seeing or hearing anything about the WBG in the last 30 days?
+CATEGORIES
+Value Category Cases
+1 Yes 67 25.5%
+2 No 196 74.5%
+Sysmiss 44
+E4:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 264 Invalid: 43 Minimum: 1 Maximum: 5
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 5 Format: Numeric
+E5:
+Data file: uzbekistan_cos_fy23_data
+Overview
+Valid: 263 Invalid: 44 Minimum: 1 Maximum: 15
+Type: Discrete Decimal: 0 Width: 8 Range: 1 - 15 Format: Numeric
+Uzbekistan - World Bank Group Country Survey 2023
+30
+Documentation
+Questionnaires
+World Bank Group Country Survey FY 2023 – Uzbekistan Paper Questionnaire
+Title World Bank Group Country Survey FY 2023 – Uzbekistan Paper Questionnaire
+Author(s) World Bank Group
+Country Uzbekistan
+Description World Bank Group Country Survey FY 2023 – Uzbekistan Paper Questionnaire
+Filename uzbekistan_cos_fy23_questionnaire_paper_.pdf
+World Bank Group Country Survey FY 2023 – Uzbekistan Online Questionnaire
+Title World Bank Group Country Survey FY 2023 – Uzbekistan Online Questionnaire
+Author(s) World Bank Group
+Country Uzbekistan
+Description World Bank Group Country Survey FY 2023 – Uzbekistan Online Questionnaire
+Filename uzbekistan_cos_fy23_questionnaire_online_.pdf
+Reports
+FY 2023 Uzbekistan Country Opinion Survey Report
+Title FY 2023 Uzbekistan Country Opinion Survey Report
+Author(s) World Bank Group
+Country Uzbekistan
+Description FY 2023 Uzbekistan Country Opinion Survey Report
+Filename uzbekistan_cos_fy23_report_okr.pdf
+Technical documents
+Uzbekistan Country Opinion Survey 2023 -Tables with Data Breakdown
+Title Uzbekistan Country Opinion Survey 2023 -Tables with Data Breakdown
+Author(s) World Bank Group
+Country Uzbekistan
+Description Uzbekistan Country Opinion Survey 2023 -Tables with Data Breakdown
+Filename uzbekistan_cos_fy23_appendices_with_data_breakdowns.xlsx
+FY 2023 Uzbekistan Country Opinion Survey Codebook
+Title FY 2023 Uzbekistan Country Opinion Survey Codebook
+Author(s) World Bank Group
+Country Uzbekistan
+Description FY 2023 Uzbekistan Country Opinion Survey Codebook
+Filename uzbekistan_fy23_codebook.xlsx
