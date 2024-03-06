@@ -53,12 +53,3 @@ This will encrypt each file in the specified directory and its subdirectories. E
 
 
 
-
-### Decryption
-
-1. Ensure you have the encryption key file (`encryption_key.key`) generated during the encryption process.
-
-2. Place the encrypted files you want to decrypt in a directory.
-
-3. Run the decryption script `decryption.py`, providing the directory path containing the encrypted files:
-
